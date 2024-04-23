@@ -1,3 +1,7 @@
-# java
-this is a java
-in this repository, i add some codes with Java lenguage (made in 2022-2023), using structured programming, enjoy!!
+Título do Projeto
+demostrar conhecimentos básicos de Java através de aplicações simples com programação estruturada.
+
+Autores
+@Gustavo pacheco
+🔗 Links
+portfoliolinkedintwitterInstagram
