@@ -1,7 +1,7 @@
 
 # Título do Projeto
 
-demostrar conhecimentos básicos de c++ através de aplicações simples com programação estruturada.
+demostrar conhecimentos básicos de Java através de aplicações simples com programação estruturada.
 
 
 ## Autores
